@@ -1,0 +1,7 @@
+This database includes a record for each oil pipeline leak or spill reported to the Pipeline and Hazardous Materials Safety Administration since 2010. These records include the incident date and time, operator and pipeline, cause of incident, type of hazardous liquid and quantity lost, injuries and fatalities, and associated costs.
+
+Acknowledgements
+The oil pipeline accident reports were collected and published by the DOT's Pipeline and Hazardous Materials Safety Administration.
+
+
+oil pipeline leak or spill reported to the Pipeline and Hazardous Materials Safety Administration since 2010
